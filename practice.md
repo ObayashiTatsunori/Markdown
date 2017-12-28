@@ -70,3 +70,10 @@ int i = 0;
 ```
 System.out.println('HelloWorld');
 ```  
+
+# 画像を中央に配置する
+```
+<div align="center">
+<img src=ABCD.jpg>
+</div>
+```
