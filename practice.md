@@ -15,7 +15,7 @@
 * [to 画像を中央に配置する](#画像を中央に配置する)
 <!-- some long code -->
 
-[return to menu](#menu)
+
 
 
 # 見出し1
@@ -100,3 +100,4 @@ System.out.println('HelloWorld');
 ```
 
 
+[return to menu](#menu)
